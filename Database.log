@@ -1,0 +1,889 @@
+--------------------------------------------------------------------------------
+2014-11-18 10:53:05 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;
+        AttachDbFilename=|DataDirectory|\DWA_ModelCaseDatabase.mdf;
+        Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	An attempt to attach an auto-named database for file C:\Users\a1302618\Desktop\Randonneur_Oat\App_Data\DWA_ModelCaseDatabase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-18 11:06:57 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;
+        AttachDbFilename=|DataDirectory|\DWA_ModelCaseDatabase.mdf;
+        Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	An attempt to attach an auto-named database for file C:\Users\a1302618\Desktop\Randonneur_Oat\App_Data\DWA_ModelCaseDatabase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-20 09:20:26 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;
+        AttachDbFilename=|DataDirectory|\DWA_ModelCaseDatabase.mdf;
+        Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	An attempt to attach an auto-named database for file C:\Users\a1302618\Desktop\Randonneur_Oat\App_Data\DWA_ModelCaseDatabase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-20 09:33:34 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;
+        AttachDbFilename=|DataDirectory|\DWA_ModelCaseDatabase.mdf;
+        Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	An attempt to attach an auto-named database for file C:\Users\a1302618\Desktop\Randonneur_Oat\App_Data\DWA_ModelCaseDatabase.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-20 09:41:14 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-20 10:15:57 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-20 10:48:43 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:20:45 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:21:14 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:21:46 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:26:27 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:28:35 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:29:27 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:30:06 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:32:50 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:38:13 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:41:00 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:50:01 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:51:51 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT deptno, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptno'.
+Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 10:54:26 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT clubId, deptname, startDate, budget, email
+                  FROM Club 
+              ORDER BY deptname")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'deptname'.
+Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 11:04:01 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT clubId, clubName, startDate, budget, email
+                  FROM Club 
+              ORDER BY clubName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid column name 'startDate'.
+Invalid column name 'budget'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 11:14:11 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT empno
+              FROM employee
+             WHERE clubId = 15")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid object name 'employee'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 11:25:35 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT empno
+              FROM employee
+             WHERE clubId = 15")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid object name 'employee'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 11:26:30 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT empno
+              FROM employee
+             WHERE clubId = 15")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid object name 'employee'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 11:32:47 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT empno
+              FROM employee
+             WHERE clubId = 15")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid object name 'employee'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-25 11:32:56 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT empno
+              FROM employee
+             WHERE clubId = 330")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid object name 'employee'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-11-27 09:20:50 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT empno
+              FROM employee
+             WHERE clubId = 15")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Invalid object name 'employee'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:00:19 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Brevet_Rider
+                JOIN Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                JOIN Club ON (Rider.clubId = Club.clubId)
+                WHERE brevetId = 433
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:00:20 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Brevet_Rider
+                JOIN Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                JOIN Club ON (Rider.clubId = Club.clubId)
+                WHERE brevetId = 120
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:02:34 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Brevet_Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                JOIN Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE brevetId = 433
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	The multi-part identifier "Rider.clubId" could not be bound.
+Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:02:35 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Brevet_Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                JOIN Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE brevetId = 120
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	The multi-part identifier "Rider.clubId" could not be bound.
+Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:02:36 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Brevet_Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                JOIN Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE brevetId = 100
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	The multi-part identifier "Rider.clubId" could not be bound.
+Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:04:18 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                JOIN Brevet_Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE brevetId = 433
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:04:19 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                JOIN Brevet_Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE brevetId = 120
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:05:21 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                --JOIN Brevet_Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE riderId = 100
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:05:22 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                --JOIN Brevet_Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE riderId = 120
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 14:05:23 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT familyName, givenName, clubId
+                FROM Rider
+                JOIN Club ON (Club.clubId = Rider.clubId)
+                --JOIN Brevet_Rider ON (Brevet_Rider.riderId = Rider.riderId)
+                
+                WHERE riderId = 433
+                ORDER BY familyName, givenName")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Ambiguous column name 'clubId'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 15:28:44 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("SELECT * 
+                  FROM Brevet 
+              ORDER BY distance, brevet date, location")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	Incorrect syntax near 'date'.
+
+	DBMS native error code: 1
+
+--------------------------------------------------------------------------------
+2014-12-15 17:36:49 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("DELETE FROM Rider
+                WHERE riderId = 13")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	The DELETE statement conflicted with the REFERENCE constraint "FK_Brevet_Rider_Rider". The conflict occurred in database "C:\USERS\A1302618\DESKTOP\RANDONNEUR_OAT\APP_DATA\RANDONNEURDATABASE.MDF", table "dbo.Brevet_Rider", column 'riderId'.
+The statement has been terminated.
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2014-12-15 17:37:17 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("DELETE FROM Rider
+                WHERE riderId = 28")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	The DELETE statement conflicted with the REFERENCE constraint "FK_Brevet_Rider_Rider". The conflict occurred in database "C:\USERS\A1302618\DESKTOP\RANDONNEUR_OAT\APP_DATA\RANDONNEURDATABASE.MDF", table "dbo.Brevet_Rider", column 'riderId'.
+The statement has been terminated.
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2014-12-15 19:17:07 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (15, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:20:49 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (15, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:21:25 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (15, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:21:27 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (15, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:25:28 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (10, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:31:11 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (17, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:32:30 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId, isCompleted, finishingTime)
+                VALUES (16, 12, 'N', '0:0')")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
+--------------------------------------------------------------------------------
+2014-12-15 19:35:06 DATABASE ACCESS ERROR
+
+1) Database object's method ExecuteQuery reports the following: ExecuteQuery failed
+
+2) The method call in your program is as follows:
+
+	ExecuteQuery("INSERT INTO Brevet_Rider (brevetId, riderId)
+                VALUES (15, 12)")
+
+3) System.InvalidOperationException message is as follows: 
+
+	There is already an open DataReader associated with this Command which must be closed first.
+
+
